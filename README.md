@@ -134,7 +134,7 @@ const hafezTopequl = {
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,cpp&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,py,js,dart,cpp&theme=dark" alt="Languages"/>
 
 **📱 App Development**
 
