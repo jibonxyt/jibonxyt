@@ -22,9 +22,20 @@
 
 <br/>
 
-<!-- ═══════════════════════ snek ═══════════════════════ -->
 
 
+
+
+
+
+
+
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jibonxyt/jibonxyt/snake-output/snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+<br/>
 
   <!-- ═══════════════════════ snk ═══════════════════════ -->
 <!-- ═══════════════════════ WHO I AM ═══════════════════════ -->
@@ -57,15 +68,17 @@ const hafezTopequl = {
 };
 ```
 
-<br/>
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+
+
+
 ## 🚀 Featured Projects
-
+<br> <br/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 ### ✨ jibonxyt — Profile README
-
 <a href="https://github.com/jibonxyt/jibonxyt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibonxyt&repo=jibonxyt&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="jibonxyt repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibonxyt&repo=jibonxyt&theme=nord&hide_border=true&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" alt="jibonxyt Repo Card" />
 </a>
 
 আমার GitHub প্রোফাইলের এই পেজটাই — capsule-render, typing SVG আর dynamic stats কার্ড দিয়ে বানানো।
