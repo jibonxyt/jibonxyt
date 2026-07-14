@@ -102,19 +102,20 @@ const hafezTopequl = {
 <h1 data-importer="text" align="center">mew</h1>
 
 
-
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
+###
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jibonxyt/jibonxyt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/jibonxyt/jibonxyt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&theme=dracula" />
+</div>
 ###
 
-
-
-
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jibonxyt/jibonxyt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jibonxyt/jibonxyt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jibonxyt/jibonxyt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
+</div>
 
 <!-- ═══════════════════════ am,itiom ═══════════════════════ -->
 
