@@ -58,10 +58,10 @@ const hafezTopequl = {
   },
   launchedProjects: [
     "jibonxyt/jibonxyt — my GitHub profile README ✨",
-    // TODO: নতুন প্রজেক্ট বানালে এখানে যোগ করো
+    // TODO: নতুন প্রজেক্টো
   ],
   certifications: [
-    "📜 TODO — নিজের সার্টিফিকেটের নামগুলো এখানে বসাও",
+    "📜 TODO — ",
   ],
   status: "🎓 Student — learning & building every single day",
   openTo: ["Internships", "Freelance Projects", "Remote Jobs", "Open Source"],
