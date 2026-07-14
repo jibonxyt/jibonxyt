@@ -1,27 +1,195 @@
-# Hi there, I'm Hafez Topequl Islam Bhuiyan 👋
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:38bdf8,100:7dd3fc&text=Hafez%20Topequl%20Islam%20Bhuiyan&fontSize=40&fontColor=0f172a&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20App%20Developer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
-### 🚀 Full Stack App & Web Developer | Problem Solver
-Passionate about learning new technologies and building scalable applications.
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer;Flutter+%2B+React+Native+Developer;Software+Engineering+Student;C%2B%2B+%7C+Dart+%7C+JavaScript+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://github.com/jibonxyt)
 
-## 🛠️ Tech Stack & Skills
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20OPEN%20TO%20WORK-Yes!-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=jibonxyt&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/jibonxyt?tab=followers"><img src="https://img.shields.io/github/followers/jibonxyt?style=for-the-badge&logo=github&logoColor=white&color=7dd3fc&labelColor=0f172a" alt="Followers"/></a>
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js
-- **Backend & Database:** Node.js, Express, MongoDB, SQL
-- **Mobile App:** React Native / Flutter
-- **Tools:** Git, GitHub, VS Code
+</div>
 
----
+<br/>
 
+<!-- ═══════════════════════ snek ═══════════════════════ -->
+
+
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
+  <!-- ═══════════════════════ snk ═══════════════════════ -->
+<!-- ═══════════════════════ WHO I AM ═══════════════════════ -->
+## 🧑‍💻 Who I Am
+
+```typescript
+const hafezTopequl = {
+  name: "Hafez Topequl Islam Bhuiyan",
+  username: "jibonxyt",
+  title: [
+    "Full Stack Web & App Developer",
+    "Flutter Developer",
+    "Software Engineer (Student)",
+  ],
+  stack: {
+    languages:      ["HTML", "CSS", "JavaScript", "Dart", "C++"],
+    appDevelopment: ["Flutter", "React Native"],
+    devTools:       ["Git", "GitHub", "VS Code"],
+    exploring:      ["Node.js", "Firebase"],
+  },
+  launchedProjects: [
+    "jibonxyt/jibonxyt — my GitHub profile README ✨",
+    // TODO: নতুন প্রজেক্ট বানালে এখানে যোগ করো
+  ],
+  certifications: [
+    "📜 TODO — নিজের সার্টিফিকেটের নামগুলো এখানে বসাও",
+  ],
+  status: "🎓 Student — learning & building every single day",
+  openTo: ["Internships", "Freelance Projects", "Remote Jobs", "Open Source"],
+};
+```
+
+<br/>
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+## 🚀 Featured Projects
+
+### ✨ jibonxyt — Profile README
+
+<a href="https://github.com/jibonxyt/jibonxyt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibonxyt&repo=jibonxyt&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="jibonxyt repo card"/>
+</a>
+
+আমার GitHub প্রোফাইলের এই পেজটাই — capsule-render, typing SVG আর dynamic stats কার্ড দিয়ে বানানো।
+
+| Layer | Technology |
+|---|---|
+| Content | Markdown |
+| Visuals | capsule-render, readme-typing-svg, skillicons.dev |
+| Stats | github-readme-stats, streak-stats, profile-trophy |
+
+🔗 **Live:** [github.com/jibonxyt](https://github.com/jibonxyt) &nbsp;•&nbsp; 💻 **Code:** [jibonxyt/jibonxyt](https://github.com/jibonxyt/jibonxyt)
+
+<!-- TODO: নতুন প্রজেক্ট যোগ করতে উপরের ব্লকটা কপি করে repo নামটা বদলে দাও -->
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,dart,cpp&theme=dark" alt="Languages"/>
+
+**📱 App Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="App Development"/>
+
+**☁️ Backend & Cloud (exploring)**
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" alt="Backend and Cloud"/>
+
+**🧰 Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Dev Tools"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibonxyt&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibonxyt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=jibonxyt&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibonxyt&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&langs_count=8" height="170" alt="Top Languages"/>
 
-## 📫 How to reach me
-- 🌐 Website: [francegallerykw.com](https://francegallerykw.com)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jibonxyt&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jibonxyt&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jibonxyt&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=7dd3fc&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jibonxyt"><img src="https://img.shields.io/badge/LinkedIn-jibonxyt-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/></a>
+<a href="https://x.com/jibonxyt"><img src="https://img.shields.io/badge/X_(Twitter)-jibonxyt-7dd3fc?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X (Twitter)"/></a>
+<a href="https://www.facebook.com/jibonxyt.me"><img src="https://img.shields.io/badge/Facebook-jibonxyt.me-7dd3fc?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f172a" alt="Facebook"/></a>
+<a href="https://www.instagram.com/jibonbroo"><img src="https://img.shields.io/badge/Instagram-jibonbroo-7dd3fc?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram"/></a>
+<a href="https://www.tiktok.com/@jibonxy"><img src="https://img.shields.io/badge/TikTok-jibonxy-7dd3fc?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0f172a" alt="TikTok"/></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER BANNER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7dd3fc,50:38bdf8,100:0ea5e9&section=footer&animation=twinkling" width="100%"/>
